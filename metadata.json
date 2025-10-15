@@ -1,0 +1,5 @@
+{
+  "name": "GeoSim AI Agent",
+  "description": "An AI-powered agent that generates Python code for geography simulations. Describe a geographical phenomenon, and the agent will provide a complete, runnable Python script using libraries like Matplotlib and NumPy to visualize it.",
+  "requestFramePermissions": []
+}
